@@ -1,1 +1,3 @@
-
+                                  ATM System – Use Case Diagram
+                                  
+This UML Use Case Diagram illustrates the interactions within an ATM System. It shows how customers authenticate themselves by inserting a card and entering a PIN to perform transactions such as cash withdrawal, fund transfer, balance inquiry, deposit, and printing receipts. The bank system validates and authorizes each transaction while updating account balances. Technicians maintain the ATM and refill cash, and bank administrators monitor all transactions to ensure security and proper operation.
